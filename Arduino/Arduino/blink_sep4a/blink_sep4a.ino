@@ -18,3 +18,4 @@ delay(duration_1); //wait for a second
 digitalWrite(led_pin2,LOW); //turn the LED off by making the voltage low
 delay(duration_1);//wait for a second
 }
+#JG
